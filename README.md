@@ -2,6 +2,13 @@
 
 This Python project calculates the area of rectangles and squares using object-oriented programming principles.
 
+## How to Use
+
+### Prerequisites
+
+- Python 3.x installed on your system.
+
+
 ## Classes and Methods
 
 ### Rectangle Class
